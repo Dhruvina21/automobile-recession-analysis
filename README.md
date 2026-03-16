@@ -68,6 +68,3 @@ Built with **Plotly & Dash** featuring two reports:
 - Higher unemployment rates correlate with lower automobile sales
 ```
 
-**Commit message:**
-```
-Update README with complete project documentation
