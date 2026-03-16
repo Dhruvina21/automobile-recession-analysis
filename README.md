@@ -58,7 +58,7 @@ Built with **Plotly & Dash** featuring two reports:
 ![Recession Report](RecessionReportgraphs.png)
 
 ### Yearly Statistics Report
-![Yearly Report](YearlyReportgraphs.png)
+![Yearly Report]( YearlyReportgraphs.png)
 
 ## Key Insights
 - Automobile sales drop significantly during recession periods
